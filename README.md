@@ -143,7 +143,7 @@ In the app:
 
 ***
 
-!image[st_image_1.png]
-!image[image_2.png]
+![dashboard](st_image_1.png)
+![output](image_2.png)
 
 

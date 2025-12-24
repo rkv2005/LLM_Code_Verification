@@ -144,6 +144,6 @@ In the app:
 ***
 
 ![dashboard](st_image_1.png)
-![output](image_2.png)
+![output](image.png)
 
 

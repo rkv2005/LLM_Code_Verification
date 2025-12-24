@@ -143,10 +143,7 @@ In the app:
 
 ***
 
-## Screenshot Paths
+!image[st_image_1.png]
+!image[image_2.png]
 
-- `assets/success_output.png`  
-- `assets/debug_report.png`
 
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/70576129/90daccd9-10f3-4f28-9793-af86ab0f46f0/paste.txt)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/70576129/3c450832-0d9b-4c6d-a046-2f69fbc1cb60/paste.txt)
